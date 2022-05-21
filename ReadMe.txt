@@ -1,5 +1,5 @@
 Mitchell Melby, Matthew Olivo, Connor Cowher
-Deployed site: https://app.netlify.com/sites/experience-marketplace/settings/deploys#continuous-deployment
+Deployed site: https://experience-marketplace.netlify.app/
 
 Known bugs: N/A
 
